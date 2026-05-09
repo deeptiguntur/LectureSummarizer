@@ -1,5 +1,7 @@
 # Lecture Summarizer with AI
 
+### 🏆 Winner of Best use of AI in Education prize at Hack(Her)413 2024
+
 ## Inspiration
 Our inspiration sparked from observing the arduous process of traditional note-taking during lectures or sitting through hours of video recordings or PPTs. We were motivated to harness AI technology to streamline this task, empowering students to grasp information more efficiently and effectively.
 
